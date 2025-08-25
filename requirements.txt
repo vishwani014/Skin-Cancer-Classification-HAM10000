@@ -1,0 +1,9 @@
+tensorflow
+keras
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+opencv-python
+imbalanced-learn  # For handling imbalance if needed
